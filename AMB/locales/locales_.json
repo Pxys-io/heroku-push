@@ -1,0 +1,60 @@
+{
+  "data": {
+    "Hey {username}!\\nYour turn is upcoming,There are {i} in front of you, prepare to be served": {
+      "en": "Hey {username}!\\nYour turn is upcoming,There are {i} in front of you, prepare to be served",
+      "es": "NULL"
+    },
+    "Hey!, Your appointment order is now {order}, thanks for your patient waiting": {
+      "en": "Hey!, Your appointment order is now {order}, thanks for your patient waiting",
+      "es": "NULL"
+    },
+    "You Don't have any active appointments right now!": {
+      "en": "You Don't have any active appointments right now!",
+      "es": "NULL"
+    },
+    "You have {n} active appointment!": {
+      "en": "You have {n} active appointment!",
+      "es": "NULL"
+    },
+    "You have an upcomming appointment,There are {o} in front of you": {
+      "en": "You have an upcomming appointment,There are {o} in front of you",
+      "es": "NULL"
+    },
+    "Notify me when my turn is upcoming: {d}": {
+      "en": "Notify me when my turn is upcoming: {d}",
+      "es": "NULL"
+    },
+    "Language: {l}": {
+      "en": "Language: {l}",
+      "es": "NULL"
+    },
+    "User Settings": {
+      "en": "User Settings",
+      "es": "NULL"
+    },
+    "Appointments": {
+      "en": "Appointments",
+      "es": "NULL"
+    },
+    "You logged in succefully, to change your setting send /settings": {
+      "en": "You logged in succefully, to change your setting send /settings",
+      "es": "NULL"
+    },
+    "Done": {
+      "en": "Done",
+      "es": "NULL"
+    },
+    "Forward message and caption it /add": {
+      "en": "Forward message and caption it /add",
+      "es": "NULL"
+    },
+    "Appointment added,\\nAppointment id = {i}\\nWill notify user? {w}\\n": {
+      "en": "Appointment added,\\nAppointment id = {i}\\nWill notify user? {w}\\n",
+      "es": "NULL"
+    }
+  },
+  "langs": [
+    "en",
+    "es"
+  ]
+}

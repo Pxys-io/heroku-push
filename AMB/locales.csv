@@ -1,0 +1,15 @@
+"Hey {username}!\nYour turn is upcoming,There are {i} in front of you, prepare to be served",NULL
+"Hey!, Your appointment order is now {order}, thanks for your patient waiting",NULL
+You Don't have any active appointments right now!,NULL
+You have {n} active appointment!,NULL
+"You have an upcomming appointment,There are {o} in front of you",NULL
+Notify me when my turn is upcoming: {d},NULL
+Language: {l},NULL
+User Settings,NULL
+Appointments,NULL
+Appointments,NULL
+"You logged in succefully, to change your setting send /settings",NULL
+Done,NULL
+Done,NULL
+Forward message and caption it /add,NULL
+"Appointment added,\nAppointment id = {i}\nWill notify user? {w}\n",NULL

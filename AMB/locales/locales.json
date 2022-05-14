@@ -1,0 +1,60 @@
+{
+  "data": {
+    "Hey {username}!\\nYour turn is upcoming,There are {i} in front of you, prepare to be served": {
+      "en": "Hey {username}!\\nYour turn is upcoming,There are {i} in front of you, prepare to be served",
+      "es": "¡Hola, {username}!\\nSe acerca tu turno. Hay {i} personas delante de ti, prepárate."
+    },
+    "Hey!, Your appointment order is now {order}, thanks for your patient waiting": {
+      "en": "Hey!, Your appointment order is now {order}, thanks for your patient waiting",
+      "es": "¡Hola!, Ahora estás en la posición {order}, gracias por tu paciente espera"
+    },
+    "You don't have any active appointments right now!": {
+      "en": "You don't have any active appointments right now!",
+      "es": "No dispones de ningún diseño de programa en espera en este momento"
+    },
+    "You have {n} active appointment!": {
+      "en": "You have {n} active appointment!",
+      "es": "Dispones de {n} programas en espera."
+    },
+    "You have an upcomming appointment,There are {o} in front of you": {
+      "en": "You have an upcomming appointment,There are {o} in front of you",
+      "es": "Tienes un diseño de programa pendiente. Actualmente hay {o} personas delante de ti."
+    },
+    "Notify me when my turn is upcoming: {d}": {
+      "en": "Notify me when my turn is upcoming: {d}",
+      "es": "Notifícame cuando mi turno sea: {d}"
+    },
+    "Language: {l}": {
+      "en": "Language: {l}",
+      "es": "Idioma: {l}"
+    },
+    "User Settings": {
+      "en": "User Settings",
+      "es": "Ajustes de usuario"
+    },
+    "Appointments": {
+      "en": "Appointments",
+      "es": "Diseños de programa"
+    },
+    "You logged in succefully, to change your setting send /settings": {
+      "en": "You logged in succefully, to change your setting send /settings",
+      "es": "Te has registrado correctamente. Para cambiar los ajustes envía /settings"
+    },
+    "Done": {
+      "en": "Done",
+      "es": "Hecho"
+    },
+    "Forward message and caption it /add": {
+      "en": "Forward message and caption it /add",
+      "es": "Reenviar mensaje y titularlo /add"
+    },
+    "Appointment added,\\nAppointment id = {i}\\nWill notify user? {w}\\n": {
+      "en": "Appointment added,\\nAppointment id = {i}\\nWill notify user? {w}\\n",
+      "es": "Programa añadido,\\nPrograma id= = {i}\\nNotificar al usuario? {w}\\n"
+    }
+  },
+  "langs": [
+    "en",
+    "es"
+  ]
+}
